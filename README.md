@@ -4,6 +4,5 @@ Python package files (.zip) that you can upload directly to layer on aws lambda.
 
 Now these packages below are available.  
 対応ライブラリは以下の通りです。
-- Opencv (version )
-- Numpy (version )
-- PIL (version )
+- [Numpy (pythonnumpy.zip)(version 1.18.1)](https://github.com/sorarideblog/aws_lambda_python_packages/blob/master/pythonnumpy.zip)
+- [PIL (pythonpillow.zip)(version 7.0.0)](https://github.com/sorarideblog/aws_lambda_python_packages/blob/master/pythonpillow.zip)
